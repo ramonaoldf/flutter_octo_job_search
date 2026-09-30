@@ -1,5 +1,5 @@
-## flutter-GitConnect ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/Thealphamerc/flutter_octo_job_search?style=social)](https://github.com/login?return_to=%2FTheAlphamerc%flutter_octo_job_search) ![GitHub forks](https://img.shields.io/github/forks/TheAlphamerc/flutter_octo_job_search?style=social) 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/TheAlphamerc/flutter_octo_job_search) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Thealphamerc/flutter_octo_job_search) ![GitHub last commit](https://img.shields.io/github/last-commit/Thealphamerc/flutter_octo_job_search)  ![GitHub issues](https://img.shields.io/github/issues-raw/Thealphamerc/flutter_octo_job_search) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Thealphamerc/flutter_octo_job_search) 
+## flutter-GitConnect ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthealphamerc) [![GitHub stars](https://img.shields.io/github/stars/ramonaoldf/flutter_octo_job_search?style=social)](https://github.com/login?return_to=%2Framonaoldf%2Fflutter_octo_job_search) ![GitHub forks](https://img.shields.io/github/forks/ramonaoldf/flutter_octo_job_search?style=social) 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ramonaoldf/flutter_octo_job_search) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/ramonaoldf/flutter_octo_job_search) ![GitHub last commit](https://img.shields.io/github/last-commit/ramonaoldf/flutter_octo_job_search)  ![GitHub issues](https://img.shields.io/github/issues-raw/ramonaoldf/flutter_octo_job_search) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ramonaoldf/flutter_octo_job_search) 
 
 Octo Job Search app is a job search app built in flutter framwork. It uses [Github Jobs](https://jobs.github.com/api) data to display jobs.
 App design is taken from [Fronntend Mentor](https://www.frontendmentor.io/challenges/github-jobs-api-93L-NL6rP) and [Bhanu Taneja's Article](https://dev.to/pbteja1998/revamped-github-jobs-website-using-design-from-frontend-mentor-3m0n)
@@ -13,11 +13,11 @@ App preview:- [Youtube](https://youtu.be/Mb1dlB0XbD4)
 
 Home                |  Job detail               | Settings                |  About us
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_octo_job_search/blob/main/screenshots/screenshot_1.jpg?raw=true) | ![](https://github.com/TheAlphamerc/flutter_octo_job_search/blob/main/screenshots/screenshot_2.jpg?raw=true)| ![](https://github.com/TheAlphamerc/flutter_octo_job_search//blob/main/screenshots/screenshot_3.jpg?raw=true)| ![](https://github.com/TheAlphamerc/flutter_octo_job_search//blob/main/screenshots/screenshot_4.jpg?raw=true)|
+![](https://github.com/ramonaoldf/flutter_octo_job_search/blob/main/screenshots/screenshot_1.jpg?raw=true) | ![](https://github.com/ramonaoldf/flutter_octo_job_search/blob/main/screenshots/screenshot_2.jpg?raw=true)| ![](https://github.com/ramonaoldf/flutter_octo_job_search//blob/main/screenshots/screenshot_3.jpg?raw=true)| ![](https://github.com/ramonaoldf/flutter_octo_job_search//blob/main/screenshots/screenshot_4.jpg?raw=true)|
 
 Home (Light Theme)       |  Job detail (Light Theme)  | Settings  (Light Theme) |  About us (Light Theme) 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_octo_job_search//blob/main/screenshots/screenshot_1.png?raw=true) |![](https://github.com/TheAlphamerc/flutter_octo_job_search//blob/main/screenshots/screenshot_2.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_octo_job_search//blob/main/screenshots/screenshot_3.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_octo_job_search//blob/main/screenshots/screenshot_4.png?raw=true)|
+![](https://github.com/ramonaoldf/flutter_octo_job_search//blob/main/screenshots/screenshot_1.png?raw=true) |![](https://github.com/ramonaoldf/flutter_octo_job_search//blob/main/screenshots/screenshot_2.png?raw=true)|![](https://github.com/ramonaoldf/flutter_octo_job_search//blob/main/screenshots/screenshot_3.png?raw=true)|![](https://github.com/ramonaoldf/flutter_octo_job_search//blob/main/screenshots/screenshot_4.png?raw=true)|
 
 
 
@@ -116,7 +116,7 @@ Home (Light Theme)       |  Job detail (Light Theme)  | Settings  (Light Theme) 
 ## Contributing
 
 If you wish to contribute a change to any of the existing feature or add new in this repo,
-Send a [pull request](https://github.com/TheAlphamerc/flutter_octo_job_search/pulls). I welcome and encourage all pull requests. It usually will take me within 24 hours to respond to any issue or request.
+Send a [pull request](https://github.com/ramonaoldf/flutter_octo_job_search/pulls). I welcome and encourage all pull requests. It usually will take me within 24 hours to respond to any issue or request.
 
 ## Created & Maintained By
 
